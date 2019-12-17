@@ -52,6 +52,7 @@ github.com
 go.microsoft.com
 gxwztv.com
 hmcdn.baidu.com
+huodong.taobao.com
 huoying666.com
 i.biquge5200.com
 i.gtimg.cn
@@ -253,6 +254,7 @@ m.sosoxiaoshuo.cc
 m.sqsxs.com
 m.suimeng.com
 m.suimeng.la
+m.tb.cn
 m.tingshuge.com
 m.tmetb.net
 m.tsxsw.com
@@ -420,6 +422,7 @@ www.qcloud.com
 www.qiushibaike.com
 www.qq.com
 www.qu.la
+www.ranwena.com
 www.rejuwang.com
 www.safedog.cn
 www.shuaigay.vip
@@ -447,9 +450,11 @@ wx2.sinaimg.cn
 wx3.sinaimg.cn
 wx4.sinaimg.cn
 xiongzhang.baidu.com
+xn--xhq9mt12cf5v.site
 xntk.net
 zhainanbt.net
 zhannei.baidu.com
 zhongzicili.me
 znsv.baidu.com
 zuji.htm
+ÌÚÑ¶¿Æ¼¼.club
